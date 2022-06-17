@@ -1,4 +1,4 @@
-pipeline {
+pipelinechandibro {
 
     agent {
         node {
